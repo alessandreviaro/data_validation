@@ -2,6 +2,8 @@
 
 Este repositório contém um codigo Python desenvolvido para automatizar a validação e análise de dados de uma pesquisa de mercado. O script utiliza a biblioteca Pandas para manipular e analisar os dados, gerando insights valiosos a partir de um grande conjunto de informações.
 
+**O código foi modificado para garantir a conformidade com as normas de dados da empresa, assegurando a segurança e a privacidade das informações.**
+
 # Funcionalidades:
 
 - Carregamento de dados: Lê arquivos Excel e converte os dados em um formato estruturado para análise.
